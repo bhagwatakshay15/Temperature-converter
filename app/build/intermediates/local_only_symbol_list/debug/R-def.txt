@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color myColor
+color white
+drawable frost
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable sun
+id activity_main
+id button3
+id editText
+id imageView2
+id radioButton
+id radioButton2
+id radioGroup
+id textView4
+id textView5
+id toolbar
+layout activity_main
+mipmap appicon
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string calc
+string celsius
+string fahrenheit
+string instruction
+style Base.Theme.TempConverter
+style Theme.TempConverter
+xml backup_rules
+xml data_extraction_rules

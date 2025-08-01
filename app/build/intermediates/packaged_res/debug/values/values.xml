@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="myColor">#FFE4E1</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">TempConverter</string>
+    <string name="calc">Calculate</string>
+    <string name="celsius">To Celsius</string>
+    <string name="fahrenheit">To Fahrenheit</string>
+    <string name="instruction">1. Enter your temperature to convert. 2. Select desired temperature scale. 3. Hit Calculate!</string>
+    <style name="Base.Theme.TempConverter" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.TempConverter" parent="Base.Theme.TempConverter"/>
+</resources>
